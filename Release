@@ -6,3 +6,11 @@ Codename: ios
 Architectures: iphoneos-arm64
 Components: main
 Description: Personal Sileo repository for custom tweaks
+MD5Sum:
+ ffa40e19ef910a67f8d49652fc4ca4cb 539 Packages
+ f5fd9d51437a3cb0a6baa84fa288fd2b 373 Packages.gz
+ c30083a2599a92b55cb2b7936e1e4bba 407 Packages.bz2
+SHA256:
+ 32454fb790180dc9fb8335368ddb47da80a3ba1056343ea16814cb3da985247c 539 Packages
+ b9b51fa7d08fa136bb566d409a0464b50806046d9f8dbb9436e875c3948a6234 373 Packages.gz
+ b93eb0d07778e0fcf0d7bfb5e39415525272e5e4606f51ea55ed5464dc0e608b 407 Packages.bz2
