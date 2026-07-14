@@ -1,0 +1,12 @@
+Package: com.tuanhungdz.ioscontrol
+Name: IOSControl
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Description: AutoTouch-like automation tweak for iOS (touch, screenshot, OCR, Lua scripting)
+Maintainer: tuanhung
+Author: tuanhung
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/com.tuanhungdz.ioscontrol_1.7.4_iphoneos-arm64_rebuilt.deb
+Size: 15298780
+Installed-Size: 24744
