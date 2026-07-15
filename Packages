@@ -8,8 +8,8 @@ Author: tuanhung
 Section: Tweaks
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: debs/com.tuanhungdz.ioscontrol_1.7.4_iphoneos-arm64_rebuilt.deb
-Size: 17226650
+Size: 17226662
 Installed-Size: 24744
-SHA256: 6ef748e07bff55274e1a815a0846b68945327640247465f7e86528fb7fe9f202
+SHA256: 7542cf64a1633e2467a5c3693e30e63dbdcd44a9f6fe482cbbd812ae2440804d
 Conflicts: com.trieudz.ioscontrol
 Replaces: com.trieudz.ioscontrol
