@@ -8,9 +8,9 @@ Components: main
 Description: Personal Sileo repository for custom tweaks
 MD5Sum:
  8e01215411f9a9a4cf5974393bbc93ca 539 Packages
- 03b8fc3d7538cea665b1dbbc7664d255 374 Packages.gz
+ 10429abef0e2039dee1bbd17373249f1 374 Packages.gz
  a1fc2cd46d53eacc14be0ce99ae53120 410 Packages.bz2
 SHA256:
  86a9186ed6b07fdd5101d222d96245bdd7ee30fc0b1e25a87f798888f28b543a 539 Packages
- e9b11d3a64bbf270766ee2a490fe64b981d472607dbed799807c5f7a48e529b9 374 Packages.gz
+ 428e00a525b8d4df48cb220a2225459c53fd47cdc11ff978f51d89e9ec496eb9 374 Packages.gz
  1626ffe37ba546a388b88ca25b1d49ea019081528461785c58e770b860fd18c7 410 Packages.bz2
